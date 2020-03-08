@@ -22,7 +22,7 @@ body {
 /* --- MAIN SETTINGS --- */
 
 #home-section {
-    background: url(/img/red_blue.png);
+    background: url(img/red_blue.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
