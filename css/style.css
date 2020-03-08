@@ -205,3 +205,10 @@ background: linear-gradient(90deg, rgb(246, 176, 255), #8feeff, rgb(246, 176, 25
 .list-of-things {
     font-size: 20px;
 }
+
+.projects-container {
+    border-radius: 50px; 
+    background-color: #ffffff; 
+    margin-left: 50px; 
+    margin-right: 50px;
+}
